@@ -5,6 +5,6 @@ To run this, create a folder (say Elyx_Hackathon), and create 2 files: simulate.
 
 pip install streamlit pandas
 python simulate.py
-streamlit run app.py
+streamlit run app.py (in 3 different lines)
 
 This should open the streamlit web page display with the output
