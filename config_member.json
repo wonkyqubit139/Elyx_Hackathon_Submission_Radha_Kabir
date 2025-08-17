@@ -1,0 +1,28 @@
+{
+  "member": {
+    "id": "M-001",
+    "name": "Rohan Patel",
+    "home_timezone": "Asia/Singapore",
+    "chronic_condition": "elevated ApoB",
+    "goals": ["reduce ApoB", "improve sleep & HRV", "gradual strength gains"],
+    "weekly_commitment_hours": 5
+  },
+  "elyx_team": [
+    {"id": "U-RUBY", "name": "Ruby", "role": "Concierge"},
+    {"id": "U-NEEL", "name": "Neel", "role": "Concierge Lead"},
+    {"id": "U-WARREN", "name": "Dr. Warren", "role": "Medical"},
+    {"id": "U-RACHEL", "name": "Rachel", "role": "PT"},
+    {"id": "U-CARLA", "name": "Carla", "role": "Nutrition"},
+    {"id": "U-ADVIK", "name": "Advik", "role": "Lifestyle"}
+  ],
+  "simulation": {
+    "start_date": "2025-01-15",
+    "months": 8,
+    "max_member_threads_per_week": 5,
+    "exercise_update_days": 14,
+    "diagnostic_panel_months": [3, 6],
+    "adherence_probability": 0.5,
+    "travel_week_every_n_weeks": 4,
+    "seed": 42
+  }
+}

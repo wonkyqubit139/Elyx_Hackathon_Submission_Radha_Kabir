@@ -1,0 +1,13 @@
+{
+  "internal_hours": {
+    "Medical": 10.7,
+    "PT": 10.199999999999996,
+    "Nutrition": 1.9000000000000006,
+    "Lifestyle": 0.0,
+    "Concierge": 14.899999999999963,
+    "Concierge Lead": 0.0
+  },
+  "message_count": 265,
+  "decision_count": 38,
+  "test_count": 2
+}
