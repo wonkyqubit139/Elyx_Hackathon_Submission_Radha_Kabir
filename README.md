@@ -8,3 +8,4 @@ python simulate.py
 streamlit run app.py (in 3 different lines)
 
 This should open the streamlit web page display with the output
+> We have also attached the sample output (PDF File) of our code with the name 'medic_web_interface_'
