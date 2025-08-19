@@ -3,7 +3,7 @@ import google.generativeai as genai
 import pandas as pd
 
 # --- Configuration ---
-API_KEY = "AIzaSyAwsTkCsRrUD1UX8PVMQZiiWYr89tbjSKA"
+API_KEY = "." #Insert your own API Key here
 
 # --- Function to Generate Conversation ---
 def generate_health_conversation():
